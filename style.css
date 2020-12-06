@@ -1,0 +1,46 @@
+            h1 {
+                color: white;
+            }
+
+            /* *{
+                border: solid;
+            } */
+
+            .header{
+                    
+                display: flex;
+                justify-content: space-between;
+            }
+
+            .grid{
+                display:flex;
+                flex-wrap: wrap;
+                justify-content: space-evenly;
+                
+            }
+            .G1{
+                border-style: solid;
+                border-width:5px;
+                
+                border-color: blueviolet;
+            }
+            
+            p,h2{
+                text-align: center;
+            }
+            
+            .footer{
+                display: flex;
+                justify-content: flex-end;
+            }
+
+            body{
+              background-color:black;
+            }
+/*
+#FFFFFF
+#(0-255)(0-255)(0-255)
+#080808
+*/
+            
+            
